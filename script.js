@@ -32,3 +32,7 @@ function calcular (num1, num2) {
 calcular(n1,n2);
 */
 
+console.log('Contadora')
+let i = 0;
+
+while()
