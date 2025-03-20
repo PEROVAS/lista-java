@@ -11,10 +11,11 @@ function verificarPar(numero){
 verificarPar(numero);
 */
 
+/*
 let n1 = parseFloat(prompt('escreva n1'))
 let n2 = parseFloat(prompt('escreva n2'))
 
-function calcular (nem1, num2) {
+function calcular (num1, num2) {
  const soma = num1 + num2;
  const subtracao = num1 - num2;
  const multiplicacao = num1 * num2;
@@ -28,4 +29,6 @@ function calcular (nem1, num2) {
     console.log(divisao)
  }
 }
-calcular(n1,n2)
+calcular(n1,n2);
+*/
+
