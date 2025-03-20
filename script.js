@@ -1,3 +1,4 @@
+/*
 console.log('hello world');
 let numero = prompt('Digite seu número:');
 function verificarPar(numero){
@@ -8,3 +9,4 @@ function verificarPar(numero){
     }
 }
 verificarPar(numero);
+*/
