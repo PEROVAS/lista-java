@@ -45,9 +45,10 @@ while (numero >=1){
 
 /*4
 let palavra = prompt('Digite sua palavra');
-function inverterTexto(palavra) {
-    console.log(palavra.split("ola").reverse().join("ola"));
+function inverterTexto(texto) {
+    console.log(palavra.split("").reverse().join(""));
 }
+    invertertexto(texto)
 */
 
 /*5
@@ -98,7 +99,7 @@ for ( let num = 1; num < 21; num++) {
 }
   */  
 
-/*9
+
 let pala = (prompt('Digite sua palavra:'));
 function verificarPalavra ( pala ) {
     let palindroma = (pala.split("").reverse().join(""));
@@ -119,4 +120,6 @@ function verificarSinal ( n ) {
         console.log (' Esse número é negativo');   
     }
 }
-*/
+
+
+function(verificarpalndromo)
