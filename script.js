@@ -32,7 +32,10 @@ function calcular (num1, num2) {
 calcular(n1,n2);
 */
 
-console.log('Contadora')
-let i = 0;
+let numero = 10;
+let delay = 0;
 
-while()
+while (numero >=1){
+    console.log(numero);
+    numero--;
+}
