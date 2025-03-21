@@ -72,3 +72,11 @@ class Carro {
 const meuCarro = new Carro('taos', 'volkswagem', '2023');
 */
 
+/*7
+let nome = prompt('Digite seu nome:');
+const mensagem = 'Olá';
+function mensagemPersonalizada( nome, mensagem ) {
+    console.log ( mensagem + nome);
+}
+    */
+
