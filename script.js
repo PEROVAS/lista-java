@@ -43,12 +43,18 @@ while (numero >=1){
 }
 */
 
-/*
+/*4
 let palavra = prompt('Digite sua palavra');
 function inverterTexto(palavra) {
     console.log(palavra.split("ola").reverse().join("ola"));
 }
 */
 
+/*5
+let num = prompt('Digite sua palavra:');
+function contarCaracteres ( num ) {
+    console.log(num.length);
+}
+*/
 
 
