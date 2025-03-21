@@ -23,7 +23,7 @@ function calcular (num1, num2) {
  console.log(subtracao)
  console.log(multiplicacao)
  if (num2 === 0){
-    console.log("Não dá para dividir po 0!")
+    console.log("Não dá para dividir por 0!")
  } else {
     const divisao = num1 / num2;
     console.log(divisao)
@@ -31,11 +31,14 @@ function calcular (num1, num2) {
 }
 calcular(n1,n2);
 */
-
+/*
+console.log
 let numero = 10;
-let delay = 0;
+let delay = 1;
 
 while (numero >=1){
     console.log(numero);
     numero--;
 }
+    */
+
