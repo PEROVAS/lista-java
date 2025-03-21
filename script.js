@@ -1,4 +1,4 @@
-/*
+/*1
 console.log('hello world');
 let numero = prompt('Digite seu número:');
 function verificarPar(numero){
@@ -11,7 +11,7 @@ function verificarPar(numero){
 verificarPar(numero);
 */
 
-/*
+/*2
 let n1 = parseFloat(prompt('escreva n1'))
 let n2 = parseFloat(prompt('escreva n2'))
 
@@ -31,7 +31,8 @@ function calcular (num1, num2) {
 }
 calcular(n1,n2);
 */
-/*
+
+/*3
 console.log
 let numero = 10;
 let delay = 1;
@@ -41,4 +42,13 @@ while (numero >=1){
     numero--;
 }
 */
+
+/*
+let palavra = prompt('Digite sua palavra');
+function inverterTexto(palavra) {
+    console.log(palavra.split("ola").reverse().join("ola"));
+}
+*/
+
+
 
