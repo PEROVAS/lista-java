@@ -58,3 +58,17 @@ function contarCaracteres ( num ) {
 */
 
 
+/*6
+class Carro {
+    constructor(marca, modelo, ano) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.ano = ano;
+    }
+    exibirInformacoes() {
+        console.log(`Carro: ${this.marca} ${this.modelo} ${this.ano}`);
+    }
+}
+const meuCarro = new Carro('taos', 'volkswagem', '2023');
+*/
+
